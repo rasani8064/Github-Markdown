@@ -1,0 +1,16 @@
+.sqr {
+  border: 10px solid black;
+  height: 200px;
+  width: 200px;
+}
+
+.circle {
+  border: 5px solid black;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px auto;
+}
